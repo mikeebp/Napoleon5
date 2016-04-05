@@ -1,0 +1,25 @@
+{
+  "Amigos": [
+    {
+      "name": "Pedro",
+      "hobby": "Basquet",
+      "age": 25,
+      "phone": 3318256941,
+      "address": "Sta. Margarita #2152"
+    },
+    {
+      "name": "Juan",
+      "hobby": "Volley",
+      "age": 21,
+      "phone": 3358245563,
+      "address": "Sta. Margarita #5623"
+    },
+    {
+      "name": "Francisco",
+      "hobby": "Golf",
+      "age": 23,
+      "phone": 3322535854,
+      "address": "Sta. Margarita #1205"
+    }
+  ]
+}
